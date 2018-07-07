@@ -3,5 +3,5 @@ spring:
   datasource:
     druid:
       url: jdbc:mysql://47.52.227.26:3306/${db}?characterEncoding=UTF-8&useSSL=false
-      username: root
-      password: admin
+      username: hjs
+      password: hjs
